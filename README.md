@@ -6,8 +6,7 @@
 
 <br>
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/dalton_oviedo/)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:daltonsteve22@gmail.com)
+
 
 <br>
 

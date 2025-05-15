@@ -28,7 +28,7 @@
 [![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=Developer-DsC&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Developer-DsC&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)  
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-DsC&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)  
-[![Estadísticas de Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Developer-DsC&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
 
 <br>
 

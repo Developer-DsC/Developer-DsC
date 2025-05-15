@@ -16,7 +16,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,express,nodejs,python,csharp,.net,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,express,nodejs,python,cs,dotnet,postgresql,mysql)](https://skillicons.dev)
 
 
 ## GitHub Stats 📈 :

@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Dalton</h1>
+-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Dalton</h1>
 
 <br>
 
@@ -18,14 +18,14 @@
 &emsp;
 ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=red)
 ![C#](https://img.shields.io/badge/-C%23-000?logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Frontend development:
 &emsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 
 
 ### Misc tools:
@@ -38,9 +38,7 @@
 ### Services & Frameworks: 
 &emsp;
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?&logo=Angular&logoColor=white)
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
+![Express](https://img.shields.io/badge/-Express-DD0031?&logo=Express&logoColor=white)
 
 
 ### Databases:

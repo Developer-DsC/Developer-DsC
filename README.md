@@ -6,10 +6,10 @@
 
 <br>
 
-[![@dalton_oviedo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@dalton_oviedo")](https://www.instagram.com/dalton_oviedo/)  
-[![@Developer-DsC](https://img.icons8.com/fluency/48/000000/linkedin.png "@Developer-DsC")](https://www.linkedin.com/in/dalton-cornejo-b00a67322)  
-[![@d4lt1nh023](https://img.icons8.com/?size=48&id=9OUQw1H0TbZD&format=png "@d4lt1nh023")](https://x.com/d4lt1nh023)  
-[![@daltonsteve22@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@daltonsteve22@gmail.com")](mailto:daltonsteve22@gmail.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/dalton_oviedo/)  
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)  
+[![X](https://img.icons8.com/?size=48&id=9OUQw1H0TbZD&format=png)](https://x.com/d4lt1nh023)  
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:daltonsteve22@gmail.com)
 
 <br>
 

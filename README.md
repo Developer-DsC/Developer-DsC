@@ -5,9 +5,10 @@
 ## ☕ Conecta conmigo:
 
 <br>
-[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/dalton_oviedo/)
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)
-[![Email](https://img.icons8.com/fluency/48/apple-mail.png)](mailto:daltonsteve22@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalton_oviedo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daltonsteve22@gmail.com)
+
 
 <br>
 

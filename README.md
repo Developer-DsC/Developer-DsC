@@ -8,7 +8,6 @@
 
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/dalton_oviedo/)  
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)  
-[![X](https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000)](https://x.com/d4lt1nh023)  
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:daltonsteve22@gmail.com)
 
 <br>
@@ -18,7 +17,7 @@
 ### Programming languages:
 &emsp;
 ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=red)
-![C#](https://img.shields.io/badge/-.net-000?logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000?logo=dotnet-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

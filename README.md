@@ -44,8 +44,7 @@
 
 <br>
 
-[![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=Developer-DsC&bg_color=000000&color=00E676&line=00E676&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<p align="center"><i>Última edición: 30/06/2022</i></p>
+<p align="center"><i>Última edición: 15/05/2025</i></p>

@@ -30,18 +30,18 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia&logoColor=purple)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia&logoColor=blue)
 
 ### Frameworks: 
 &emsp;
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=white)
 
 
 ### Bases de Datos:
 &emsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=white)
 &emsp;
 
 ## 📈 Estadísticas de GitHub:

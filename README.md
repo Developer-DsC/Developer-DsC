@@ -8,7 +8,7 @@
 
 <br>
 
-[![@dalton_oviedo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@dalton_oviedo")](https://www.instagram.com/dalton_oviedo/) [![@Developer-DsC](https://img.icons8.com/fluency/48/000000/linkedin.png "@Developer-DsC")](https://www.linkedin.com/in/dalton-cornejo-b00a67322) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://x.com/d4lt1nh023) [![@0711971313] [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@dalton_oviedo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@dalton_oviedo")](https://www.instagram.com/dalton_oviedo/) [![@Developer-DsC](https://img.icons8.com/fluency/48/000000/linkedin.png "@Developer-DsC")](https://www.linkedin.com/in/dalton-cornejo-b00a67322) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://x.com/d4lt1nh023) [![@daltonsteve22@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@daltonsteve22@gmail.com")](daltonsteve22@gmail.com)
 
 <br>
 

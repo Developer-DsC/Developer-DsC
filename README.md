@@ -40,9 +40,7 @@
 
 <br>
 
-## 📊 Actividad Reciente:
 
-<br>
 
 
 ---

@@ -38,7 +38,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Developer-DsC)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 <br>
 
@@ -50,6 +50,5 @@
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
 Last edited on: 30/06/2022

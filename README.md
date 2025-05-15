@@ -12,10 +12,10 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+### 🛠️ My Skills :
 
-### 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,angular)](https://skillicons.dev)
 
 
 ## GitHub Stats 📈 :

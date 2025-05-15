@@ -8,7 +8,7 @@
 
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/dalton_oviedo/)  
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/dalton-cornejo-b00a67322)  
-[![X](https://img.icons8.com/?size=48&id=9OUQw1H0TbZD&format=png)](https://x.com/d4lt1nh023)  
+[![X](https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg)](https://x.com/d4lt1nh023)  
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:daltonsteve22@gmail.com)
 
 <br>

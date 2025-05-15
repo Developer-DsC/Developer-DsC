@@ -17,7 +17,7 @@
 ### Programming languages:
 &emsp;
 ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=red)
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000?logo=dotnet&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
